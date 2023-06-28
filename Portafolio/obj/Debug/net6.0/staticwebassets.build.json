@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lqc7WBQYHbwFY2U7R/O6Od8l/Jo5yT8ddxMH6Mf3wnw=",
+  "Hash": "fhIGY3Dlp9y9UUCbhsEj0DoQaa8+LWXp4mqmnH2pG8I=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
       "Identity": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\foto.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/foto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\foto.png"
     },
     {
       "Identity": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",

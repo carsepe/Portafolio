@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\Portafolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\foto.png",
+      "PackagePath": "staticwebassets\\imagenes\\foto.png"
     },
     {
       "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
