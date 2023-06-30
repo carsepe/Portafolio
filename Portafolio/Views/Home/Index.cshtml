@@ -1,10 +1,11 @@
-﻿
+﻿@model HomeIndexViewModel
+
 @{
     ViewData["Title"] = "Pagina principal";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Carlos Segura </h1>
-    <h2>Soy desarrollador de software con experiencia en .NET</h2>
-    <img id="foto" src="~/imagenes/foto.png" alt="Fot de Carlos" />
-</div>
+<partial name = "_Presentacion" />
+
+<partial name = "_Habilidades" />
+
+<partial name = "_SeccionProyectos" model="Model.Proyectos"/>

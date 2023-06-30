@@ -4,3 +4,41 @@
     border-radius: 50%;
     /*border:2px solid black;*/
 }
+
+.seccion-bienvenida{
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.seccion-bienvenida h1 {
+    margin-bottom:1rem;
+}
+
+.seccion-bienvenida p{
+    font-family: sans-serif;
+    line-heigth: 1.5;
+    font-size: 1.25rem;
+}
+#imagen-dotnet {
+    width: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.color-area {
+    background-color: #512bd4;
+}
+
+.habilidades ul{
+    list-style:none;
+    padding-left:0
+}
+
+.habilidades i {
+    color: #512bd4;
+    font-size:50px
+}
+
+.cabecera-title {
+    color: #512bd4
+}

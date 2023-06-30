@@ -17,8 +17,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\OneDarkPro.vsix",
+      "PackagePath": "staticwebassets\\imagenes\\OneDarkPro.vsix"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\amazon.png",
+      "PackagePath": "staticwebassets\\imagenes\\amazon.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dotNET.png",
+      "PackagePath": "staticwebassets\\imagenes\\dotNET.png"
+    },
+    {
       "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\foto.png",
       "PackagePath": "staticwebassets\\imagenes\\foto.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\reddit.png",
+      "PackagePath": "staticwebassets\\imagenes\\reddit.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\steem.png",
+      "PackagePath": "staticwebassets\\imagenes\\steem.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\imagenes\\the-new-york-times.png",
+      "PackagePath": "staticwebassets\\imagenes\\the-new-york-times.png"
     },
     {
       "Id": "C:\\Users\\carlo\\Documents\\udemy\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
