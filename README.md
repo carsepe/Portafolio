@@ -1,6 +1,6 @@
 # Mi Portafolio
 
-Este proyecto es un portafolio personal desarrollado utilizando el framework .NET y el lenguaje C#, con el patrón de diseño MVC. La aplicación tiene como objetivo mostrar mi perfil profesional, descripción personal y algunos de mis proyectos destacados. Además, se ha agregado un formulario de contacto para facilitar la comunicación con los visitantes.
+Este proyecto es un portafolio personal desarrollado utilizando el framework .NET y el lenguaje C#, con el patrón de diseño MVC. La aplicación tiene como objetivo mostrar mi perfil profesional, descripción personal y algunos proyectos simbólicos para ejemplificar mis habilidades y conocimientos. Además, se ha agregado un formulario de contacto para facilitar la comunicación con los visitantes.
 
 ## Características
 
@@ -8,7 +8,7 @@ Este proyecto es un portafolio personal desarrollado utilizando el framework .NE
 
 - Descripción personal: Proporciona una breve introducción sobre quién soy y mis intereses.
 
-- Proyectos destacados: Presenta una selección de mis proyectos más relevantes, junto con detalles y enlaces para obtener más información.
+- Proyectos simbólicos: Incluye una selección de proyectos ficticios que ilustran mis capacidades y conocimientos en diferentes áreas.
 
 - Formulario de contacto: Permite a los visitantes enviar mensajes y consultas directamente a través del sitio web.
 
